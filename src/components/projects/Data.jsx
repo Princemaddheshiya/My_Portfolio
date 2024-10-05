@@ -1,25 +1,25 @@
 import Project1 from "../../assets/project1.webp";
-import Project2 from "../../assets/project2.webp";
-import Project3 from "../../assets/project3.webp";
+import Project2 from "../../assets/Portfolio_pic.webp";
+import Project3 from "../../assets/Todo_pic.webp";
 
 
 export const projectsData = [
     {
         id: 1,
         image: Project1,
-        title: "Project 1",
+        title: "Alumni Portal",
         category: "A",
     },
     {
         id: 2,
         image: Project2,
-        title: "Project 2",
+        title: "Portfolio",
         category: "B",
     },
     {
         id: 3,
         image: Project3,
-        title: "Project 3",
+        title: "Todolist",
         category: "C",
     },
 ];

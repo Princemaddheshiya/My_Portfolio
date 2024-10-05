@@ -33,7 +33,7 @@ const Qualification = () => {
                     : "qualification__content"}>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">High School</h3>
+                            <h3 className="qualification__title">High School (87.16%)</h3>
                             <span className="qualification__subtitle">U P Board</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
@@ -52,8 +52,8 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">Intermediate</h3>
-                            <span className="qualification__subtitle">C R T</span>
+                            <h3 className="qualification__title">Intermediate (79.2%)</h3>
+                            <span className="qualification__subtitle">U P Board</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
                                 2019-2020
@@ -62,7 +62,7 @@ const Qualification = () => {
                     </div>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">B.Tech</h3>
+                            <h3 className="qualification__title">B.Tech (8 CGPA)</h3>
                             <span className="qualification__subtitle">Madan Mohan Malaviya University Of Technology,Gorakhpur Uttar Pradesh</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
@@ -79,11 +79,11 @@ const Qualification = () => {
                     : "qualification__content"}>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Tech Support</h3>
-                            <span className="qualification__subtitle">PC Outlet</span>
+                            <h3 className="qualification__title">Fresher</h3>
+                            <span className="qualification__subtitle">MMMUT</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2012-2015
+                                2021-2025
                             </div>
                         </div>
                         <div>
@@ -98,21 +98,21 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">Junior Developer</h3>
-                            <span className="qualification__subtitle">Discord</span>
+                            <h3 className="qualification__title">Fresher</h3>
+                            <span className="qualification__subtitle">MMMUT</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2015-2016
+                                2021-2025
                             </div>
                         </div>
                     </div>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">UX Designer</h3>
-                            <span className="qualification__subtitle">Apple Inc</span>
+                            <h3 className="qualification__title">Fresher</h3>
+                            <span className="qualification__subtitle">MMMUT</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2016-2022
+                                2021-2025
                             </div>
                         </div>
                         <div>
@@ -127,11 +127,11 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">Senior Developer</h3>
-                            <span className="qualification__subtitle">Freelance - Remote</span>
+                            <h3 className="qualification__title">Fresher</h3>
+                            <span className="qualification__subtitle">MMMUT</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2019-Present
+                                2021-2025
                             </div>
                         </div>
                     </div>
