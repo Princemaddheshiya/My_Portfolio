@@ -29,12 +29,12 @@ export const projectsNav = [
         name: "All",
     },
     {
-        name: "Project 1",
+        name: "A",
     },
     {
-        name: "Project 2",
+        name: "B",
     },
     {
-        name: "Project 3",
+        name: "C",
     },
 ];
