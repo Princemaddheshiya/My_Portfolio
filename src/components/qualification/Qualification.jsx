@@ -80,7 +80,7 @@ const Qualification = () => {
                     <div className="qualification__data">
                         <div>
                             <h3 className="qualification__title">DevOps Engineer</h3>
-                            <span className="qualification__subtitle">Kramate Pvt. Ltd.</span>
+                            <span className="qualification__subtitle">XYZ Pvt. Ltd.</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
                                 Aug 2025 - Present
