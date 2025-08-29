@@ -15,19 +15,17 @@ const About = () => {
                 <div className="about__data">
                     <Info />
                     <p className="about__description">
-                        I am a MERN stack developer with a strong focus on
-                        backend development, creating scalable web applications
-                        using MongoDB, Express.js, React, and Node.js. I
-                        specialize in building RESTful APIs, database management,
-                        and optimizing server performance. With experience in
-                        Git, Linux administration, and collaborative workflows,
-                        I ensure efficient development and deployment processes.
-                        During my internship with Indian Railways, I gained
-                        real-world experience working on DNIR, further
-                        sharpening my technical skills. Currently, I'm
-                        expanding into data science, AI/ML, and deep
-                        learning to integrate cutting-edge technologies
-                        into my projects. Let's connect!
+                        I'm a DevOps enthusiast with a strong passion for Linux and open-source technologies.
+                        From automating system tasks to building scalable infrastructure, I enjoy solving real-world
+                        problems using tools like Docker, Kubernetes, Jenkins, Git, and cloud platforms like AWS. 
+                        Linux is my favorite operating system — not just because it's powerful and flexible, but
+                        because it teaches you how systems truly work. I actively use shell scripting to automate
+                        tasks, manage deployments, and streamline development workflows. My experience includes
+                        writing custom backup scripts, configuring servers, setting up CI/CD pipelines, and 
+                        working with monitoring and logging tools.I believe DevOps is not just a role, but a 
+                        mindset — one that focuses on collaboration, automation, and continuous improvement. 
+                        I’m always learning, exploring new tools, and aiming to improve system reliability and
+                        deployment speed
                     </p>
                     <a download="" href={CV} className="button button--flex">
                         Download CV
