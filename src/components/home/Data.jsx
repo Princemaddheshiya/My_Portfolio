@@ -56,12 +56,13 @@ const Data = () => {
                 </svg>
             </h1>
             <h3 className="home__subtitle">
-                Full Stack (MERN) Developer, SIH'22 Finalist, LINUX
+                DevOps Engineer
             </h3>
             <p className="home__description">
-                I'm a MERN stack developer specializing in scalable web apps, RESTful
-                APIs, and backend optimization. Experienced in Git, Linux, and DNIR.
-                Currently exploring AI/ML and data science for advanced projects.
+                "DevOps enthusiast passionate about Linux, automation, and cloud technologies. 
+                Experienced with Docker, Kubernetes, Jenkins, Git, and AWS to build scalable 
+                infrastructure. I believe in DevOps as a mindset — collaboration, automation, 
+                and continuous improvement."
             </p>
 
             <a href="#contact" className="button button--flex">
