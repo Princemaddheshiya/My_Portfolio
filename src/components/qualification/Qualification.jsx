@@ -62,7 +62,7 @@ const Qualification = () => {
                     </div>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">B.Tech (8 CGPA)</h3>
+                            <h3 className="qualification__title">B.Tech (8.08 CGPA)</h3>
                             <span className="qualification__subtitle">Madan Mohan Malaviya University Of Technology,Gorakhpur Uttar Pradesh</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
@@ -79,11 +79,11 @@ const Qualification = () => {
                     : "qualification__content"}>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Fresher</h3>
-                            <span className="qualification__subtitle">MMMUT</span>
+                            <h3 className="qualification__title">DevOps Engineer</h3>
+                            <span className="qualification__subtitle">Kramate Pvt. Ltd.</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2021-2025
+                                Aug 2025 - Present
                             </div>
                         </div>
                         <div>
