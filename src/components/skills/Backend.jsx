@@ -24,7 +24,7 @@ const Backend = () => {
                 <div className="skills__data">
                     <HiCheckBadge />
                     <div>
-                        <h3 className="skills__name">Load Balancing (Concepts)</h3>
+                        <h3 className="skills__name">Load Balancing</h3>
                         <span className="skills__level">Basic</span>
                     </div>
                 </div>
