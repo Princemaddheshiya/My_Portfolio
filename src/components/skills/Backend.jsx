@@ -4,27 +4,27 @@ import { HiCheckBadge } from "react-icons/hi2";
 const Backend = () => {
     return(
         <div className="skills__content">
-        <h3 className="skills__title">Backend Developer</h3>
+        <h3 className="skills__title">Web Servers & Security</h3>
         <div className="skills__box">
             <div className="skills__group">
                 <div className="skills__data">
                     <HiCheckBadge />
                     <div>
-                        <h3 className="skills__name">Node.Js</h3>
+                        <h3 className="skills__name">Nginx</h3>
                         <span className="skills__level">Basic</span>
                     </div>
                 </div>
                 <div className="skills__data">
                     <HiCheckBadge />
                     <div>
-                        <h3 className="skills__name">MongoDB</h3>
+                        <h3 className="skills__name">Apache</h3>
                         <span className="skills__level">Basic</span>
                     </div>
                 </div>
                 <div className="skills__data">
                     <HiCheckBadge />
                     <div>
-                        <h3 className="skills__name">MySQL</h3>
+                        <h3 className="skills__name">Load Balancing (Concepts)</h3>
                         <span className="skills__level">Basic</span>
                     </div>
                 </div>
@@ -47,7 +47,7 @@ const Backend = () => {
                  <div className="skills__data">
                     <HiCheckBadge />
                     <div>
-                        <h3 className="skills__name">Git</h3>
+                        <h3 className="skills__name">....</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
                 </div> 
