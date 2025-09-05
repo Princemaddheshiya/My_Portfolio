@@ -10,21 +10,21 @@ const Other = () => {
                 <div className="skills__data">
                     <HiCheckBadge />
                     <div>
-                        <h3 className="skills__name">Python</h3>
+                        <h3 className="skills__name">AWS</h3>
                         <span className="skills__level">Basic</span>
                     </div>
                 </div>
                 <div className="skills__data">
                     <HiCheckBadge />
                     <div>
-                        <h3 className="skills__name">Numpy</h3>
+                        <h3 className="skills__name">VPS</h3>
                         <span className="skills__level">Basic</span>
                     </div>
                 </div>
                 <div className="skills__data">
                     <HiCheckBadge />
                     <div>
-                        <h3 className="skills__name">Pandas</h3>
+                        <h3 className="skills__name">Vim/Vi Editor</h3>
                         <span className="skills__level">Basic</span>
                     </div>
                 </div>
@@ -33,14 +33,14 @@ const Other = () => {
                 <div className="skills__data">
                     <HiCheckBadge />
                     <div>
-                        <h3 className="skills__name">Matplotlib</h3>
+                        <h3 className="skills__name">Bash Scripting</h3>
                         <span className="skills__level">Basic</span>
                     </div>
                 </div>
                 <div className="skills__data">
                     <HiCheckBadge />
                     <div>
-                        <h3 className="skills__name">Seaborn</h3>
+                        <h3 className="skills__name">Prometheus</h3>
                         <span className="skills__level">Basic</span>
                     </div>
                 </div>
