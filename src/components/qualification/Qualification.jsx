@@ -83,7 +83,7 @@ const Qualification = () => {
                             <span className="qualification__subtitle">Kramate Pvt. Ltd.</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                Aug 2025 - Present
+                                Aug 2025 - Sep 2025
                             </div>
                         </div>
                         <div>
@@ -98,11 +98,11 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">Fresher</h3>
-                            <span className="qualification__subtitle">MMMUT</span>
+                            <h3 className="qualification__title">TechOps Engineer</h3>
+                            <span className="qualification__subtitle">Axieva Technology Pvt. Ltd.</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2021-2025
+                                Sep 2025 - Present
                             </div>
                         </div>
                     </div>
