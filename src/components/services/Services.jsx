@@ -18,7 +18,7 @@ const Services = () => {
                 <div className="services__content">
                     <div>
                         <HiOutlineClipboardList className="services__icon" />
-                        <h3 className="services__title">Web<br />Developer</h3>
+                        <h3 className="services__title">Experience<br />Certification</h3>
                     </div>
                     <span className="services__button" onClick={() => toggleTab(1)}>
                         View More
@@ -29,27 +29,29 @@ const Services = () => {
                             <HiX onClick={() => toggleTab(0)} className="services__modal-close" />
                             <h3 className="services__modal-title">Developer</h3>
                             <p className="services__modal-description">
-                                Fresher full-stack developer skilled in HTML, CSS, JavaScript,
-                                Node.js, Express.js, and MongoDB, building responsive, scalable
-                                web applications.
+Axieva | TechOps Engineer (Oct 2025 – Present)
+Working on production system monitoring, incident management, and ensuring system reliability.
+
+Kramate | DevOps Engineer (Jun 2025 – Sep 2025)
+Handled CI/CD pipelines, Docker/Kubernetes deployments, and cloud monitoring tools.
                             </p>
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
                                     <HiOutlineCheckCircle className="services__modal-icon" />
                                     <p className="services__modal-info">
-                                        Web page and app development
+                                        Work Experience Certificate – Kramate Pvt. Ltd.
                                     </p>
                                 </li>
                                 <li className="services__modal-service">
                                     <HiOutlineCheckCircle className="services__modal-icon" />
                                     <p className="services__modal-info">
-                                        Integrate creative colloboration
+                                        Work Experience Certificate – Axieva Pvt. Ltd.
                                     </p>
                                 </li>
                                 <li className="services__modal-service">
                                     <HiOutlineCheckCircle className="services__modal-icon" />
                                     <p className="services__modal-info">
-                                        Provide product mockups
+                                        Work Experience Certificate – 
                                     </p>
                                 </li>
                             </ul>
