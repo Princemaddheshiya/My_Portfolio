@@ -51,7 +51,7 @@ Handled CI/CD pipelines, Docker/Kubernetes deployments, and cloud monitoring too
                                 <li className="services__modal-service">
                                     <HiOutlineCheckCircle className="services__modal-icon" />
                                     <p className="services__modal-info">
-                                        Work Experience Certificate – 
+                                        Work Experience Certificate – Indian Railway
                                     </p>
                                 </li>
                             </ul>
@@ -73,25 +73,27 @@ Handled CI/CD pipelines, Docker/Kubernetes deployments, and cloud monitoring too
                             <HiX onClick={() => toggleTab(0)} className="services__modal-close" />
                             <h3 className="services__modal-title">Certification</h3>
                             <p className="services__modal-description">
-                                All Certification.
+    "I have completed specialized courses in Deep Learning, Social Network Analysis, and Computer 
+    Vision from various IITs through NPTEL, enhancing my skills in AI, machine learning,
+    and data-driven problem solving."
                             </p>
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
                                     <HiOutlineCheckCircle className="services__modal-icon" />
                                     <p className="services__modal-info">
-                                        NPTEL Computer Vision.
+                                        NPTEL – Computer Vision (Image Processing & CNNs)
                                     </p>
                                 </li>
                                 <li className="services__modal-service">
                                     <HiOutlineCheckCircle className="services__modal-icon" />
                                     <p className="services__modal-info">
-                                        NPTEL Deep Learning.
+                                        NPTEL – Deep Learning (AI/ML specialization)
                                     </p>
                                 </li>
                                 <li className="services__modal-service">
                                     <HiOutlineCheckCircle className="services__modal-icon" />
                                     <p className="services__modal-info">
-                                        NPTEL Social Network.
+                                        NPTEL – Social Network Analysis (Online Social Media & Analytics)
                                     </p>
                                 </li>
                             </ul>
@@ -113,25 +115,27 @@ Handled CI/CD pipelines, Docker/Kubernetes deployments, and cloud monitoring too
                             <HiX onClick={() => toggleTab(0)} className="services__modal-close" />
                             <h3 className="services__modal-title">Certification</h3>
                             <p className="services__modal-description">
-                                All Certification.
+                           "I have actively participated in multiple hackathons, including Smart India Hackathon 
+                                and Malaviya Innovation Challenge, achieving finalist and top positions that demonstrate 
+                                my skills in innovation, problem-solving, and teamwork."
                             </p>
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
                                     <HiOutlineCheckCircle className="services__modal-icon" />
                                     <p className="services__modal-info">
-                                        Smart India Hackathon 2022 Finalist.
+                                        Smart India Hackathon 2022 – Finalist for developing an innovative 3D game project solution.
                                     </p>
                                 </li>
                                 <li className="services__modal-service">
                                     <HiOutlineCheckCircle className="services__modal-icon" />
                                     <p className="services__modal-info">
-                                        Indian Railway Intership.
+                                        Secured 3rd Position at Malaviya Innovation Challenge (State Level Hackathon 2023).
                                     </p>
                                 </li>
                                 <li className="services__modal-service">
                                     <HiOutlineCheckCircle className="services__modal-icon" />
                                     <p className="services__modal-info">
-                                        Smart India Hackathon Internal Round Finalist.
+                                       2× Smart India Hackathon Internal Round Finalist, showcasing strong problem-solving and team collaboration skills.
                                     </p>
                                 </li>
                             </ul>
