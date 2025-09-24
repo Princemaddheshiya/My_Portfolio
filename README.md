@@ -23,7 +23,7 @@ The icons from this project can be found in the *Feather* or *Heroicon* sections
 
 The slider component of the testimonial section is imported from [SwiperJS](https://swiperjs.com/react) and also utlizes their pagination module.
 
-![Screenshot](./src/assets/swiperjs.png)
+![Screenshot](./src/assets/Portfolio_pic.webp)
 
 
 ## Email Component
