@@ -102,7 +102,7 @@ const Qualification = () => {
                             <span className="qualification__subtitle">Axieva Technology Pvt. Ltd.</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                Sep 2025 - Present
+                                Oct 2025 - Present
                             </div>
                         </div>
                     </div>
